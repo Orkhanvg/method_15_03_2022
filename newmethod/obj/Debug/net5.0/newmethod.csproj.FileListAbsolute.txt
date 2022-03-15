@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/newmethod.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/newmethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/newmethod.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/newmethod.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/newmethod.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Desktop/newmethod/bin/Debug/net5.0/newmethod.deps.json
+/Users/orkhangahramanli/Desktop/newmethod/bin/Debug/net5.0/newmethod.runtimeconfig.json
+/Users/orkhangahramanli/Desktop/newmethod/bin/Debug/net5.0/newmethod.runtimeconfig.dev.json
+/Users/orkhangahramanli/Desktop/newmethod/bin/Debug/net5.0/newmethod.dll
+/Users/orkhangahramanli/Desktop/newmethod/bin/Debug/net5.0/ref/newmethod.dll
+/Users/orkhangahramanli/Desktop/newmethod/bin/Debug/net5.0/newmethod.pdb
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/newmethod.dll
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/ref/newmethod.dll
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/newmethod.pdb
+/Users/orkhangahramanli/Desktop/newmethod/obj/Debug/net5.0/newmethod.genruntimeconfig.cache
